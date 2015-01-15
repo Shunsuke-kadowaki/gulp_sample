@@ -1,0 +1,36 @@
+/*
+  #overview
+  Gulp入門サンプル
+
+  サンプルファイルです
+*/
+/*
+  #styleguide
+  見出しサンプル１
+```
+  <h1>見出しサンプル１</h1>
+```
+ */
+h1 {
+  color: orange;
+  -webkit-transform: 200ms ease-out transform;
+      -ms-transform: 200ms ease-out transform;
+          transform: 200ms ease-out transform; }
+  h1:hover {
+    color: blue;
+    -webkit-transform: translate(20px, 0);
+        -ms-transform: translate(20px, 0);
+            transform: translate(20px, 0); }
+
+/*
+  #styleguide
+  ボタンサンプル１
+```
+  <button>ボタンサンプル</butotn>
+```
+*/
+button {
+  border-radius: 20px; }
+  button:hover {
+    color: #fff;
+    background-color: #f00; }
